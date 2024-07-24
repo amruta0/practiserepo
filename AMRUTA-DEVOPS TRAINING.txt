@@ -1,0 +1,19 @@
+ssh -i "amrkey.pem" ubuntu@ec2-3-25-65-183.ap-southeast-2.compute.amazonaws.com
+
+https://github.com/madandevops11/repo5
+
+git hub login : amrutamohantc96@gmail.com/Amruta@0405(username : amruta0)
+
+EC2 : amrutamohantc96@gmail.com/Amruta@98
+Token and username for git push :
+Token : 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
+username : amrutamohantc96@gmail.com
+
+
+Documentation for maven to create maven projects : https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
+JENKINS INSTALLATION :  docker run -d -v jenkins_home:/var/jenkins_home -p 8081:8080 -p 50000:50000 --restart=on-failure jenkins/jenkins:latest Jenkins container created on docker
+
+
+https://hub.docker.com/
+JENKINS URL : http://52.64.26.252:8082/
