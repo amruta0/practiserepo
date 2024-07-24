@@ -2,11 +2,11 @@ ssh -i "amrkey.pem" ubuntu@ec2-3-25-65-183.ap-southeast-2.compute.amazonaws.com
 
 https://github.com/madandevops11/repo5
 
-git hub login : amrutamohantc96@gmail.com/Amruta@0405(username : amruta0)
+git hub login : amrutamohantc96@gmail.com(username : amruta0)
 
-EC2 : amrutamohantc96@gmail.com/Amruta@98
+EC2 : amrutamohantc96@gmail.com
 Token and username for git push :
-Token : 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
+
 username : amrutamohantc96@gmail.com
 
 
